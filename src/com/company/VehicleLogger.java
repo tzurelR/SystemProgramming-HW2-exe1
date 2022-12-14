@@ -1,5 +1,4 @@
-// Tzurel Rauper 206543738
-// David Galsberg 207759614
+
 package com.company;
 
 import java.io.*;
